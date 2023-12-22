@@ -1,0 +1,34 @@
+
+
+#Negro{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+#Blanco{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+#Rojo{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    border: 1px solid black;
+}
+
+.botones{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#info{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5%;
+    margin: 5%;
+}
