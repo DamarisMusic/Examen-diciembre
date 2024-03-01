@@ -7,19 +7,19 @@ let botonRojo = document.querySelector('#Rojo')
 
 botonNegro.onclick = function(){
     botonNegro.textContent.color = 'black'
-    botonNegro.innerText = 'Negro'
+    botonNegro.innerText = 'NEGRO BULCANO'
     botonNegro.src = 'cronosNegro.png'
 }
 
 botonBlanco.onclick = function(){
     botonBlanco.textContent.color = 'white'
-    botonBlanco.innerText = 'Blanco'
+    botonBlanco.innerText = 'BLANCO ALASKAN'
     botonBlanco.src = 'cronosBlanco.png'
 }
 
 botonRojo.onclick = function(){
     botonRojo.textContent.color = 'red'
-    botonRojo.innerText = 'Rojo'
+    botonRojo.innerText = 'ROJO MONTECARLO'
     botonRojo.src = 'cronosRojo.png'
 }
 
